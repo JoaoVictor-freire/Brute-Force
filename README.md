@@ -10,7 +10,7 @@ senhas:
 ________________________________________________________________________________
 
 
-
+![encryptador](https://github.com/JoaoVictor-freire/Brute-Force/assets/111605694/3cc60f0d-7482-425f-8f8e-fe65e5fba5f6)
 
 ________________________________________________________________________________
 
@@ -22,3 +22,13 @@ maiúsculas. Seu código então deverá gerar todas strings de 4 caracteres para
 cada entrada do arquivo de senhas e testar se a versão criptografada da palavra
 gerada é igual a palavra criptografada no arquivo - em caso positivo, a senha 
 foi quebrada.
+
+
+### Requisitos
+
+1. O código deve exibir as senhas quebradas ou gerar um arquivo com as senhas 
+recuperadas.
+2. O código deve ser TODO documentado, principalmente no tocante à
+manipulação de processos.
+3. Faça cada arquivo ser manipulado por um processo 
+diferente e faça o processo original aguardar o término de todos os processos.
